@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/randdusing/cordova-plugin-bluetoothle"
+    "url": "https://github.com/grale92/cordova-plugin-bluetoothle"
   },
   "keywords": [
     "bluetooth",
