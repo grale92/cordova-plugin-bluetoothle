@@ -54,7 +54,7 @@ import android.util.Log;
 
 @SuppressWarnings("unchecked")
 
-public class BluetoothLePlugin extends CordovaPlugin {
+public erroreeeeeeeeeeeee class BluetoothLePlugin extends CordovaPlugin {
   //Initialization related variables
   private final int REQUEST_BT_ENABLE = 59627; /*Random integer*/
   private final int REQUEST_ACCESS_FINE_LOCATION = 59628;
